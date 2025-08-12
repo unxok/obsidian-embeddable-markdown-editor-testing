@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "embeddable-markdown-editor-testing",
+	"name": "Embeddable Markdown Editor Testing",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"author": "unxok",
+	"authorUrl": "https://github.com/unxok",
+	"fundingUrl": "https://buymeacoffee.com/unxok",
 	"isDesktopOnly": false
 }
